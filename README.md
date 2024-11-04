@@ -4,5 +4,5 @@
 <code>cd chat_C</code><br>
 <code>gcc client.c -o cliente -lws2_32</code><br>
 <code>gcc server.c -o servidor -lws2_32</code><br>
-<code>./servidort</code><br>
+<code>./servidor</code><br>
 <code>./cliente</code><br>
